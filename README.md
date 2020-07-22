@@ -1,5 +1,38 @@
-openbanking-ui
+We Care
 ==============
+
+We Care
+We Care app gives extra money power in Account holders hand. If subscribed, the account holder could get upto 25 percent of the recurring salary credit every month in the account to meet any immediate monetary situation.  
+Features
+Eligibility
+Bank Account needs to be atleast a year old
+Bank account should be a Salary account
+Once subscribed the account holder will get 25 Percent of the monthly Salary(Average of three months credited into the account)
+The subscribed amount will be deducted once the salary of the account holder is credited into the account
+Incase of non payment, the nominal fine of 0.25percent per month on subscribed amount is levied
+The account holder can click and unsubscribe this feature anytime
+Functioning
+Subscribe by clicking Subscribe for Insta Loan and submit
+Click Get Account Balances to get the available balance in account
+Click Get Account Transaction to view last transaction to and from the account
+Click Get Account List to view the list of interlinked accounts
+Licence
+No Licence required
+Installation
+App download on existing bank app with regular updates available
+Platform
+Any Platform friendly
+
+Authors
+Sandeep Saha
+Contributor
+Rahul Vadhan
+Nitin Goyal
+Himanshu Sehgal
+Sandeep Saha
+Acknowledgments
+Awanish K Singh
+
 
 A collection AISP and PISP APIs.
 
